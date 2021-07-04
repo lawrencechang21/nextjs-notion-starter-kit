@@ -12,14 +12,13 @@ module.exports = {
   author: 'Lawrence Chang',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'This is a website to help people find travel buddy',
+  socialImageTitle: 'Sonder-in',
+  socialImageSubtitle: 'Hello,buddy 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
   github: 'lawrencechang21',
-  linkedin: 'https://www.linkedin.com/in/lawrence-chang-it/',
+  linkedin: 'lawrence-chang-it',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
